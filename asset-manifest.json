@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/gBtn/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/gBtn/static/js/main.81eea0f0.chunk.js",
-    "main.js.map": "/gBtn/static/js/main.81eea0f0.chunk.js.map",
-    "runtime-main.js": "/gBtn/static/js/runtime-main.71ba05c9.js",
-    "runtime-main.js.map": "/gBtn/static/js/runtime-main.71ba05c9.js.map",
-    "static/js/2.8aa84311.chunk.js": "/gBtn/static/js/2.8aa84311.chunk.js",
-    "static/js/2.8aa84311.chunk.js.map": "/gBtn/static/js/2.8aa84311.chunk.js.map",
-    "index.html": "/gBtn/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/gBtn/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.8aa84311.chunk.js.LICENSE.txt": "/gBtn/static/js/2.8aa84311.chunk.js.LICENSE.txt"
+    "main.css": "/gravity_btn/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/gravity_btn/static/js/main.81eea0f0.chunk.js",
+    "main.js.map": "/gravity_btn/static/js/main.81eea0f0.chunk.js.map",
+    "runtime-main.js": "/gravity_btn/static/js/runtime-main.4b702045.js",
+    "runtime-main.js.map": "/gravity_btn/static/js/runtime-main.4b702045.js.map",
+    "static/js/2.5ddba44c.chunk.js": "/gravity_btn/static/js/2.5ddba44c.chunk.js",
+    "static/js/2.5ddba44c.chunk.js.map": "/gravity_btn/static/js/2.5ddba44c.chunk.js.map",
+    "index.html": "/gravity_btn/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/gravity_btn/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.5ddba44c.chunk.js.LICENSE.txt": "/gravity_btn/static/js/2.5ddba44c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.71ba05c9.js",
-    "static/js/2.8aa84311.chunk.js",
+    "static/js/runtime-main.4b702045.js",
+    "static/js/2.5ddba44c.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.81eea0f0.chunk.js"
   ]
